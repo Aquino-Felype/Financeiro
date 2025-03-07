@@ -1,2 +1,2 @@
-# Financeiro
+# financeiro
 Um pequeno sistema financeiro
